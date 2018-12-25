@@ -2,17 +2,26 @@
     "pages": [
         {
           "id": 1,
+          "category" : "about",  
           "title": "Welcome Aboard",
-          "content": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+          "content": "<p><strong>A quick introduction to us...</strong></p><p>Air Adventure Golf Tours cater for golfers wanting high-quality, high-performance golfing escapes to Australia's highest ranked remote courses. Flying in the immaculate Air Adventure Outback Jet makes efficient use of your time enabling you to spend more time on the fairways of of Barnbougle, Cape Wickham and Ocean Dunes and less time wasted in transit.<br /><br />Air Adventure is the creation of pioneer pastoralist and bush pilot, the late Rod Dyer. It was Rod&rsquo;s adventurous spirit and love of remote Australia which inspired him to begin taking groups of travellers to share his experience of the outback.</p>          <p>The Dyer family has lived and worked in the outback since the mid 1900s and we have been offering air tours as &lsquo;Air Adventure Australia&rsquo; since 1977. When Barnbougle first opened Air Adventure began flying groups to this highly-alluring course, in 2015 Air Adventure Golf Tours was launched.<br /><br />We look forward to the opportunity of welcoming you on board for a golfing experience that is above all all others.</p><p><em>All flights are operated as charter flights by the holder of an Australian Air Operator's certificate as issued by CASA.&nbsp;</em></p>"
         },
         {
           "id": 2,
+          "category" : "about",    
           "title": "About Us",
-          "content": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla"
+          "content": "<p>Air Adventure is the creation of pioneer pastoralist and bush pilot, the late Rod Dyer. It was Rod’s adventurous spirit and love of remote Australia which inspired him to begin taking groups of travellers to share his experience of the outback.</p><p>The Dyer family has lived and worked in the outback since the mid 1900s and we have been offering air tours as ‘Air Adventure Australia’ since 1977. When Barnbougle first opened Air Adventure began flying groups to this highly-alluring course, in 2015 Air Adventure Golf Tours was launched.</p><p>We look forward to the opportunity of welcoming you on board for a golfing experience that is above all all others.</p><p>2017 marks the 40th anniversary since Rod Dyer founded Air Adventure Australia.</p><p>Over these 40 years, safety has always been the number one priority for Air Adventure. Since 1977 thousands of miles and happy adventurers have flown with the company to iconic places across Australia and they have done so with a perfect safety record. These days all aircraft are flown by a highly experienced Commercial Captain and fully supported by Airline Safety Standards.</p>"
         },
         {
           "id": 3,
+          "category" : "about",    
           "title": "Onboard The Outback Jet",
+          "content": "<p>Travel is in the immaculately presented, privately chartered Air Adventure Outback Jet. </p><p>This high performance twin turbine aircraft is a fast and reliable, capable of landing on Barnbougle’s private airfield so you save plenty of travel time. At Air Adventure your safety is our number one priority which is why we have partnered with Sharp Airlines who have an exemplary safety record. The Cessna Conquest II is flown by a Commercially Licensed Captain and fully maintained to the highest possible standard. The interior is spacious and comfortable with plush, leather seating.</p>"
+        },
+        {
+          "id": 4,
+          "category" : "about",    
+          "title": "What's Included",
           "content": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut"
         }
     ]    
