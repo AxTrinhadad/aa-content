@@ -29,9 +29,9 @@
           "id": 4,
           "category" : "about",    
           "title": "What's Included",
-          "content": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut",
-          "mainImage" : "https://airadventuregt.wpengine.com/wp-content/uploads/2018/11/Barnbougle_09CHAerial_6598.jpg",
-          "secondaryImage" : ""
+          "content": "<p>All air travel in private aircraft, accommodation, on-course transfers, green fees, tee times, pencil tubes for transit and full sized bags for play, pull carts. The only things we don't look after are meals and drinks as there are a variety of options (from fine dining to pizza) so we don't want to lock you into anything you don't want. You know how much your golfing holiday is going to cost before you step out the door.</p><p><strong>Things not included</strong>:</p><p>Meals &amp; Drinks; Motorised cart; Club hire</p>",
+          "mainImage" : "http://airadventuregt.wpengine.com/wp-content/uploads/2018/12/golf-shot.jpg",
+          "secondaryImage" : "http://airadventuregt.wpengine.com/wp-content/uploads/2018/12/food-shots.jpg"
         }
     ]    
 }
